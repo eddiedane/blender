@@ -1,4 +1,4 @@
-# What is this?
+# What is Blender CSS?
 
 Add plugins with ease, and ease transition from other CSS libraries to tailwind by providing plugins that adds utilities and components e.t.c. that mimics other libraries while maintaining tailwind conventions and synax.
 
