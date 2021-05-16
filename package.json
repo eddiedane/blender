@@ -1,10 +1,10 @@
 {
   "name": "tailwind-blender",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Add plugins with ease, and ease transition from other CSS libraries to tailwind by providing plugins that adds utilities and components e.t.c. that mimics other libraries while maintaining tailwind conventions and synax.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",

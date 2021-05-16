@@ -1,9 +1,10 @@
 const plugins = {
-	... require('./favourites'),
+	...require('./favourites'),
 	buttons: require('./buttons'),
 	flexGrids: require('./flexGrids'),
-	containers: require('./containers'),
 };
+
+console.log(plugins);
 
 function blend(pluginNames = []) {
 	return pluginNames.reduce((accumulator, pluginName) => {
