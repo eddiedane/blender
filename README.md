@@ -1,4 +1,4 @@
-# What is Blender CSS?
+# What is Tailwind Blender?
 
 Add plugins with ease, and ease transition from other CSS libraries to tailwind by providing plugins that adds utilities and components e.t.c. that mimics other libraries while maintaining tailwind conventions and synax.
 
@@ -13,7 +13,7 @@ Blender may also include collections of plugin in the tailwind ecosystem e.g @ta
 ```
 // tailwind.config.js
 const plugin = require('tailwindcss/plugin')
-const blend = require('blender')
+const blend = require('tailwind-blender')
 
 module.exports = {
 	// add plugins with keyword from blender
