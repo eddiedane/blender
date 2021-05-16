@@ -1,5 +1,5 @@
 module.exports = ({addUtilities, theme, addComponents}) => {
-	const thm = theme('flexGrids')||{};
+	const thm = theme('blender.flexGrids')||{};
 	const gutterX = theme('spacing.6');
 	const gutterY = theme('spacing.0');
 	const gridColums = thm.columns || 12;

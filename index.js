@@ -1,4 +1,5 @@
 const plugins = {
+	... require('./favourites'),
 	buttons: require('./buttons'),
 	flexGrids: require('./flexGrids'),
 	containers: require('./containers'),
