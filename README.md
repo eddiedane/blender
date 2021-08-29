@@ -6,7 +6,7 @@ Blender may also include collections of plugin in the tailwind ecosystem e.g @ta
 
 # Installation
 
-`npm install blender --save-dev`
+`npm install tailwind-blender --save-dev`
 
 # Usage
 
