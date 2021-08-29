@@ -2,9 +2,9 @@ const plugins = {
 	...require('./favourites'),
 	buttons: require('./buttons'),
 	flexGrids: require('./flexGrids'),
+	fontVariants: require('./fontVariants'),
+	badges: require('./badges'),
 };
-
-console.log(plugins);
 
 function blend(pluginNames = []) {
 	return pluginNames.reduce((accumulator, pluginName) => {

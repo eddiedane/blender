@@ -1,6 +1,6 @@
 {
   "name": "tailwind-blender",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Add plugins with ease, and ease transition from other CSS libraries to tailwind by providing plugins that adds utilities and components e.t.c. that mimics other libraries while maintaining tailwind conventions and synax.",
   "main": "index.js",
   "scripts": {

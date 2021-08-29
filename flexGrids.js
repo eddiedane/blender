@@ -192,6 +192,6 @@ module.exports = ({addUtilities, theme, addComponents}) => {
 	const gridUtilities = makeGridCols();
 
 	addComponents(containers);
-	addUtilities(gridUtilities.row)
-	addUtilities(gridUtilities.cols, ['responsive']);
+	addComponents(gridUtilities.row)
+	addComponents(gridUtilities.cols, ['responsive']);
 }
