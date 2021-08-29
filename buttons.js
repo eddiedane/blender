@@ -1,4 +1,4 @@
-const Chroma = require('../chroma/index');
+const Chroma = require('./chroma/index');
 const getColors = require('./helpers/colors');
 
 module.exports = ({addComponents, theme}) => {
